@@ -1,5 +1,7 @@
-### WbooruPlugin.YourSeihekiStatistics
+## WbooruPlugin.YourSeihekiStatistics
 Wbooru插件，通过Wbooru本地收藏和远程收藏的标签及其他信息来统计，康康你的XP(到底有多奇怪)
+
+---
 
 ### Plan:
 * [ ] 获取本地收藏图片元数据
